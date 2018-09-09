@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+c:\project\ftpclient\ftpclient\decompression.h(22): warning C4244: инициализация: преобразование "zip_uint64_t" в "int", возможна потеря данных
+c:\project\ftpclient\ftpclient\name_addres.h(55): warning C4018: <: несоответствие типов со знаком и без знака
+c:\project\ftpclient\ftpclient\bd.h(27): warning C4101: err: неиспользованная локальная переменная
+c:\project\ftpclient\ftpclient\myform.cpp(14): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  BD.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MyForm.obj : warning LNK4248: эхЁрчЁх°хээр  ыхъёхьр TypeRef (01000027) фы  "zip"; юсЁрч эхы№ч  чряєёЄшЄ№
+MyForm.obj : warning LNK4248: эхЁрчЁх°хээр  ыхъёхьр TypeRef (01000031) фы  "zip_file"; юсЁрч эхы№ч  чряєёЄшЄ№
+  FTPClient.vcxproj -> C:\Project\FTPClient\Debug\FTPClient.exe
